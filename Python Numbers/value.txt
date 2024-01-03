@@ -1,0 +1,32 @@
+This program defines a function classify_number that takes an integer argument num. Inside the function, it checks the value of num using if, elif, and else statements to determine whether it's negative, zero, or positive. Then, it prints the corresponding message.
+
+After defining the function, it takes an integer input from the user using input(), converts it to an integer using int(), and calls the classify_number function with the entered number as an argument.
+
+When you run this program, it will prompt you to enter a number, and based on the input, it will print the appropriate classification message according to the specifications you provided.
+
+
+"The number is negative." if the number is less than zero.
+
+"The number is zero." if the number is exactly zero.
+
+"The number is positive." if the number is more than zero.
+
+Example:
+
+
+
+Input: 3
+
+Output: The number is positive.
+
+
+
+Input: -5
+
+Output: The number is negative.
+
+
+
+Input: 0
+
+Output: The number is zero.
