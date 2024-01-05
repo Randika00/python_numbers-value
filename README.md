@@ -6,4 +6,4 @@ input from the user is obtained using input(), transformed into an integer using
 entered number as an argument. This program will ask you to enter a number when it runs, and it will print the appropriate classification message
 based on the input and the specifications you entered. 
 In order to categorize an integer input as negative, zero, or positive depending on the specified conditions, this code defines the 
-classify_number function, calls the classify_number function with the entered number as an argument, and returns the result.   
+classify_number function, calls the classify_number function with the entered number as an argument, and returns the result. 
